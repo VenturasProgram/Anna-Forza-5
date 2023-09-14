@@ -1,0 +1,11 @@
+{
+    "responses": [
+        {
+            "tag": "greet",
+            "frase": "Ei Ana",
+            "responses": [
+                "Iae Como Tu Vai?", "Olá! Oque Vai Querer Hoje {}?"
+            ]
+        }
+    ]
+}

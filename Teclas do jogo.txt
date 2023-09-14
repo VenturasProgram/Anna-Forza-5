@@ -1,0 +1,13 @@
+Interagir com Anna: Seta para Baixo
+
+Preciso de Façanhas:Seta para Cima
+Novidades da Temporada:Seta para Esquerda
+Quero Correr:Seta para Direita
+Desativar Roda-Roda:Seta para Baixo
+
+Interagir com LINK:Seta para Esquerda
+
+Vamos sair para uma aventura!:Seta para Cima
+Oi: Seta para Esquerda
+Perfeição!: Seta para Direita
+Ah,Não!:Seta para Baixo
