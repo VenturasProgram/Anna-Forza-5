@@ -7,3 +7,7 @@
 
     pip install pocketsphinx
  ```
+
+ Abra o jogo(Projeto feito para XCloud)
+
+ Ligue o projeto
